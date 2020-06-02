@@ -1,2 +1,0 @@
-# CovidTrackerReactApp
-Created with CodeSandbox
